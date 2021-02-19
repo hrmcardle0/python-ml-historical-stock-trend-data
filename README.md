@@ -4,5 +4,7 @@ This small python script fetches information on stock data based on a specified 
 
 TODO: 
 -substitute in script arguments
+
 -print latest trend information
+
 -cycle through SPX stocks, finding ideal trending candidates
