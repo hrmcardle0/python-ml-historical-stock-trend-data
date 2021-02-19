@@ -2,7 +2,7 @@
 
 This small python script fetches information on stock data based on a specified number of days, and attempts to find trends in the data based on an exponentional moving average of the closing prices. 
 
-## TODO: 
+##$ TODO: 
 
 -substitute in script arguments
 
